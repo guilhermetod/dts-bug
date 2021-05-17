@@ -1,0 +1,26 @@
+{
+  "name": "@guilhermetod/dts-bug",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "rollup -c",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guilhermetod/dts-bug.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/guilhermetod/dts-bug/issues"
+  },
+  "homepage": "https://github.com/guilhermetod/dts-bug#readme",
+  "dependencies": {
+    "rollup": "^2.48.0",
+    "rollup-plugin-dts": "^3.0.1",
+    "typescript": "^4.2.4"
+  }
+}
